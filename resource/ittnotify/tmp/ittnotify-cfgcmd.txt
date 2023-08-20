@@ -1,0 +1,1 @@
+cmd='/Applications/CMake.app/Contents/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/amdkhz/Desktop/Workspace/WCOJ/build/deps;-DCMAKE_BUILD_TYPE=RelWithDebInfo;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
